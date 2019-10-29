@@ -1,0 +1,8 @@
+#忽略全部内容
+/*
+#下述文件除外
+!.gitignore
+!README.md
+.DS_Store
+.DS_Store?
+!std-*
